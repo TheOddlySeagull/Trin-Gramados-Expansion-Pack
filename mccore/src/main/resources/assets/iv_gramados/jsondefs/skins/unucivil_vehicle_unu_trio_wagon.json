@@ -1,0 +1,14 @@
+{
+	"definitions" : [
+		{
+			"subName" : "_misspaulette",
+			"subDescription" : "Skin is added by Trin Civil Pack, not part of original pack.",
+			"name" : "§3UNU Trio Wagon (After Miss Paulette Saw It.) §7[SB-728-LTC]",
+			"extraMaterials" : ["minecraft:coal:0:10"]
+		}
+	],	
+	"general": {
+		"packID" : "unucivil",
+		"systemName" : "unucivil_vehicle_unu_trio_wagon"
+	}
+}

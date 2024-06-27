@@ -1,0 +1,14 @@
+{
+	"definitions" : [
+		{
+			"subName" : "_blacksby_g",
+			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+			"name" : "Trin Rodeo Van comfort trim - Blacksby Concrete Livery, Gray interior",
+			"extraMaterials" : []
+		}
+	],	
+	"general": {
+		"packID" : "iv_tcp_v3_civil",
+		"systemName" : "trin_rodeo_van_comfort"
+	}
+}

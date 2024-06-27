@@ -1,0 +1,14 @@
+{
+	"definitions" : [
+		{
+			"subName" : "_gramados",
+			"subDescription" : "Skin is added by Gramados Expansion Pack, not part of original pack.",
+			"name": "§3UNU Rabbit Coupe (Gramados Police) ยง7[CP-497-LTC]",
+			"extraMaterials" : ["minecraft:orange_dye:0:1","minecraft:light_blue_dye:0:5"]
+		}
+	],	
+	"general": {
+		"packID" : "unucivil",
+		"systemName" : "unucivil_emergencyvehicle_unu_rabbit_coupe_police"
+	}
+}

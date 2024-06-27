@@ -1,0 +1,5 @@
+{
+	"packID" : "iv_gramados",
+	"packName" : "Immersive Vehicle - Gramados Expansion Pack",
+	"dependents" : ["iv_tpp"]
+}
