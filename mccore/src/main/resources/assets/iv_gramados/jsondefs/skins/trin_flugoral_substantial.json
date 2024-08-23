@@ -1,0 +1,15 @@
+{
+	"definitions" : [
+		{
+			"subName" : "_spongebob_b",
+            "modelName": "trin_flugoral_substantial",
+			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+			"name" : "Trin Flugoral - Spunchmobile",
+			"extraMaterials" : []
+		}
+	],	
+	"general": {
+		"packID" : "iv_tcp_v3_civil",
+		"systemName" : "trin_flugoral_substantial"
+	}
+}

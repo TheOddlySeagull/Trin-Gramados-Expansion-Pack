@@ -9,3 +9,7 @@ Released on GitHub on 2024-06-27.
 ## 1.1.0
 
 - Added an extra skin to the Trin Capro
+
+## 1.2.0
+
+- Added an extra skin to the Trin Flugoral
