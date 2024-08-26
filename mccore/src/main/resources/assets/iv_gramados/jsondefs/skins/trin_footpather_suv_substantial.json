@@ -5,7 +5,7 @@
             "modelName": "trin_footpather",
 			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name" : "Trin Footpather - Ebony Explorer, Brown Interior",
-			"extraMaterials" : []
+			"extraMaterials" : ["mts:iv_tpp.paint_bucket_deepblack:0:1","mts:iv_tpp.paint_bucket_ivory:0:1"]
 		}
 	],	
 	"general": {

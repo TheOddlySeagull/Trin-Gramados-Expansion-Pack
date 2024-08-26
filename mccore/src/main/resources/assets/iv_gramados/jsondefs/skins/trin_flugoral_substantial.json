@@ -5,7 +5,7 @@
             "modelName": "trin_flugoral_substantial",
 			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name" : "Trin Flugoral - Spunchmobile",
-			"extraMaterials" : []
+			"extraMaterials" : ["minecraft:sponge:0:6"]
 		}
 	],	
 	"general": {
