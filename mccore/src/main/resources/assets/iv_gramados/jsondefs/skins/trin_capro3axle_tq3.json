@@ -5,7 +5,14 @@
             "modelName": "trin_capro3axle_tq3",
 			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name" : "Trin Utility Capro Triple Axle TQ3 trim - Military Green & Jet Black, Brown Interior",
-			"extraMaterials" : []
+			"extraMaterials" : ["mts:iv_tpp.paint_bucket_militarygreen:0:1", "mts:iv_tpp.paint_bucket_jetblack:0:1"]
+		},
+		{
+			"subName" : "_goldandsilver_t",
+            "modelName": "trin_capro3axle_tq3",
+			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+			"name" : "Trin Utility Capro Triple Axle TQ3 trim - Gold & Silver, Tan Interior",
+			"extraMaterials" : ["mts:iv_tpp.wrap_roll_gold:0:1", "mts:iv_tpp.wrap_roll_iron:0:1"]
 		}
 	],	
 	"general": {
