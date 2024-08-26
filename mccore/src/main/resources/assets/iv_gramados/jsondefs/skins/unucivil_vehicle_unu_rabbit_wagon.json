@@ -7,7 +7,7 @@
 			"partTones": ["", "_saddle", "_blackthorne"],
 			"secondaryTextColors": ["#FEFEF0", "#FEFEF0", "#111111", "#FEFEF0"],
 			"constants": ["hubcap_dish", "package_police", "lightbar_rb"],
-			"extraMaterials" : ["minecraft:orange_dye:0:1","minecraft:light_blue_dye:0:5"]
+			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
 		}
 	],	
 	"general": {

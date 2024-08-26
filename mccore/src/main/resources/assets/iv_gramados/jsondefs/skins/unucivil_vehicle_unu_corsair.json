@@ -7,7 +7,7 @@
 			"partTones": ["", "_manilla", "_blackthorne"],
 			"secondaryTextColors": ["#FEFEF0"],
 			"constants": ["wheel_standard", "hubcap_dish", "engine_v08_standard", "package_police"],
-			"extraMaterials" : ["minecraft:orange_dye:0:1","minecraft:light_blue_dye:0:5"]
+			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
 		}
 	],	
 	"general": {
