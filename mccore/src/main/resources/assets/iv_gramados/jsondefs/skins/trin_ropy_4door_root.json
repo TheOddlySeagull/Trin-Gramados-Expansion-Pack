@@ -2,6 +2,9 @@
 	"definitions" : [
 		{
 			"subName" : "_energy_lime_w",
+			"partTones": [
+				"_white"
+			],
             "modelName": "trin_ropy_4door",
 			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name" : "Trin Ropy 4 door - Energy Lime EV",

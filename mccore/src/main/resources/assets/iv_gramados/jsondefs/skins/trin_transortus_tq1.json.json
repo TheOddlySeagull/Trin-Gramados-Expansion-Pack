@@ -2,6 +2,9 @@
 	"definitions" : [
 		{
 			"subName" : "_safari_g",
+			"partTones": [
+				"_gray"
+			],
             "modelName": "trin_transortus_tq1",
 			"subDescription" : "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name" : "Trin Transortus - Safari Special, Gray Interior",
