@@ -1,17 +1,34 @@
 {
-	"definitions" : [
+	"definitions": [
 		{
-			"subName" : "police_gramados",
-			"subDescription" : "Skin is added by Gramados Expansion Pack, not part of original pack.",
+			"subName": "police_gramados",
+			"subDescription": "Skin is added by Gramados Expansion Pack, not part of original pack.",
 			"name": "§3UNU Baron Sedan (Gramados Police) §7[IM-510-LTC]",
-			"partTones": ["", "_manilla", "_blackthorne"],
-			"secondaryTextColors": ["#FEFEF0", "#FEFEF0", "#497786", "#497786"],
-			"constants": ["wheel_standard", "hubcap_dish", "package_police", "lightbar_bb"],
-			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
+			"partTones": [
+				"",
+				"_manilla",
+				"_blackthorne"
+			],
+			"secondaryTextColors": [
+				"#FEFEF0",
+				"#FEFEF0",
+				"#497786",
+				"#497786"
+			],
+			"constants": [
+				"wheel_standard",
+				"hubcap_dish",
+				"package_police",
+				"lightbar_bb"
+			],
+			"extraMaterials": [
+				"minecraft:dye:14:1",
+				"minecraft:dye:12:5"
+			]
 		}
-	],	
+	],
 	"general": {
-		"packID" : "unucivil",
-		"systemName" : "unucivil_vehicle_unu_baron_sedan"
+		"packID": "unucivil",
+		"systemName": "unucivil_vehicle_unu_baron_sedan"
 	}
 }

@@ -1,0 +1,23 @@
+{
+	"definitions": [
+		{
+			"subName": "_jetblackandfirered_r",
+			"partTones": [
+				"_red"
+			],
+			"modelName": "trin_ropy_4door",
+			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+			"name": "Trin Ropy Nova - Jet Black & Fire Red Paint, Red Interior",
+			"extraMaterials": [
+				"mts:iv_tpp.paint_bucket_jetblack:0:1",
+				"mts:iv_tpp.paint_bucket_firered:0:1",
+				"minecraft:wool:7:2",
+				"minecraft:wool:14:3"
+			]
+		}
+	],
+	"general": {
+		"packID": "iv_tcp_v3_civil",
+		"systemName": "trin_ropy_4door_comfort"
+	}
+}

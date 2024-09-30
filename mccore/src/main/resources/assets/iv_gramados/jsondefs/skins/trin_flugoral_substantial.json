@@ -9,7 +9,9 @@
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Flugoral - Spunchmobile",
 			"extraMaterials": [
-				"minecraft:sponge:0:6"
+				"minecraft:sponge:0:6",
+				"minecraft:wool:12:3",
+				"minecraft:wool:7:2"
 			]
 		},
 		{
@@ -21,7 +23,9 @@
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Flugoral - Plum, Gray Interior",
 			"extraMaterials": [
-				"mts:iv_tpp.paint_bucket_plum:0:1"
+				"mts:iv_tpp.paint_bucket_plum:0:1",
+				"minecraft:wool:7:2",
+				"minecraft:wool:8:3"
 			]
 		}
 	],

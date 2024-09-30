@@ -1,17 +1,31 @@
 {
-	"definitions" : [
+	"definitions": [
 		{
-			"subName" : "police_gramados",
-			"subDescription" : "Skin is added by Gramados Expansion Pack, not part of original pack.",
-			"name" : "§3UNU Corsair (Gramados Police) §7[RS-702-LTC]",
-			"partTones": ["", "_manilla", "_blackthorne"],
-			"secondaryTextColors": ["#FEFEF0"],
-			"constants": ["wheel_standard", "hubcap_dish", "engine_v08_standard", "package_police"],
-			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
+			"subName": "police_gramados",
+			"subDescription": "Skin is added by Gramados Expansion Pack, not part of original pack.",
+			"name": "§3UNU Corsair (Gramados Police) §7[RS-702-LTC]",
+			"partTones": [
+				"",
+				"_manilla",
+				"_blackthorne"
+			],
+			"secondaryTextColors": [
+				"#FEFEF0"
+			],
+			"constants": [
+				"wheel_standard",
+				"hubcap_dish",
+				"engine_v08_standard",
+				"package_police"
+			],
+			"extraMaterials": [
+				"minecraft:dye:14:1",
+				"minecraft:dye:12:5"
+			]
 		}
-	],	
+	],
 	"general": {
-		"packID" : "unucivil",
-		"systemName" : "unucivil_vehicle_unu_corsair"
+		"packID": "unucivil",
+		"systemName": "unucivil_vehicle_unu_corsair"
 	}
 }

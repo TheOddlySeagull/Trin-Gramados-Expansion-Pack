@@ -1,17 +1,33 @@
 {
-	"definitions" : [
+	"definitions": [
 		{
-			"subName" : "police_gramados",
-			"subDescription" : "Skin is added by Gramados Expansion Pack, not part of original pack.",
+			"subName": "police_gramados",
+			"subDescription": "Skin is added by Gramados Expansion Pack, not part of original pack.",
 			"name": "§3UNU Rabbit Wagon (Gramados Police) §7[CP-497-LTC]",
-			"partTones": ["", "_saddle", "_blackthorne"],
-			"secondaryTextColors": ["#FEFEF0", "#FEFEF0", "#111111", "#FEFEF0"],
-			"constants": ["hubcap_dish", "package_police", "lightbar_rb"],
-			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
+			"partTones": [
+				"",
+				"_saddle",
+				"_blackthorne"
+			],
+			"secondaryTextColors": [
+				"#FEFEF0",
+				"#FEFEF0",
+				"#111111",
+				"#FEFEF0"
+			],
+			"constants": [
+				"hubcap_dish",
+				"package_police",
+				"lightbar_rb"
+			],
+			"extraMaterials": [
+				"minecraft:dye:14:1",
+				"minecraft:dye:12:5"
+			]
 		}
-	],	
+	],
 	"general": {
-		"packID" : "unucivil",
-		"systemName" : "unucivil_vehicle_unu_rabbit_wagon"
+		"packID": "unucivil",
+		"systemName": "unucivil_vehicle_unu_rabbit_wagon"
 	}
 }

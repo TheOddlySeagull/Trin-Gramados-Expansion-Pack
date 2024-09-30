@@ -1,20 +1,25 @@
 {
-	"definitions" : [
+	"definitions": [
 		{
-			"subName" : "_misspaulette",
-			"subDescription" : "Skin is added by Trin Civil Pack, not part of original pack.",
-			"name" : "§3UNU Trio Wagon (After Miss Paulette Saw It.) §7[SB-728-LTC]",
-			"extraMaterials" : ["minecraft:coal:0:10"]
+			"subName": "_misspaulette",
+			"subDescription": "Skin is added by Trin Civil Pack, not part of original pack.",
+			"name": "§3UNU Trio Wagon (After Miss Paulette Saw It.) §7[SB-728-LTC]",
+			"extraMaterials": [
+				"minecraft:coal:0:10"
+			]
 		},
 		{
-			"subName" : "police_gramados",
-			"subDescription" : "Skin is added by Gramados Expansion Pack, not part of original pack.",
+			"subName": "police_gramados",
+			"subDescription": "Skin is added by Gramados Expansion Pack, not part of original pack.",
 			"name": "§3UNU Trio Wagon (Gramados Police) §7[CP-497-LTC]",
-			"extraMaterials" : ["minecraft:dye:14:1","minecraft:dye:12:5"]
+			"extraMaterials": [
+				"minecraft:dye:14:1",
+				"minecraft:dye:12:5"
+			]
 		}
-	],	
+	],
 	"general": {
-		"packID" : "unucivil",
-		"systemName" : "unucivil_vehicle_unu_trio_wagon"
+		"packID": "unucivil",
+		"systemName": "unucivil_vehicle_unu_trio_wagon"
 	}
 }
