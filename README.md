@@ -1,5 +1,14 @@
 # Trin Gramados Expansion Pack Changelog
 
+## Trin Gramados Expansion Pack 1.4.0 changelog:
+
+### Additions:
+- Added an extra skin to the Trin Foragon Panel Van
+- Added an extra skin to the Trin Flugoral
+- Added an extra skin to the Trin Urlon V4
+
+---
+
 ## Trin Gramados Expansion Pack 1.3.0 changelog:
 
 ### Additions:
