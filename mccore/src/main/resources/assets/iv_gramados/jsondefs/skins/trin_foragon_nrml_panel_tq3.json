@@ -8,11 +8,13 @@
 			"modelName": "trin_foragon_nrml_panel",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Foragon Panel Van - Dark Walnut & Ivory Paint, Gray Interior",
-			"extraMaterials": [
-				"mts:iv_tpp.paint_bucket_ivory:0:1",
-				"mts:iv_tpp.wood_panel_pile_dark_walnut:0:1",
-				"minecraft:wool:7:2",
-				"minecraft:wool:8:3"
+			"extraMaterialLists": [
+				[
+					"mts:iv_tpp.paint_bucket_ivory:0:1",
+					"mts:iv_tpp.wood_panel_pile_dark_walnut:0:1",
+					"minecraft:wool:7:2",
+					"minecraft:wool:8:3"
+				]
 			]
 		}
 	],

@@ -20,9 +20,11 @@
 				"package_police",
 				"lightbar_rb"
 			],
-			"extraMaterials": [
-				"minecraft:dye:14:1",
-				"minecraft:dye:12:5"
+			"extraMaterialLists": [
+				[
+					"minecraft:dye:14:1",
+					"minecraft:dye:12:5"
+				]
 			]
 		}
 	],

@@ -8,10 +8,12 @@
 			"modelName": "trin_urlon_sedan_v4",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Urlon Sedan V4 - Deep Black Paint, Gray Interior",
-			"extraMaterials": [
-				"mts:iv_tpp.paint_bucket_deepblack:0:1",
-				"minecraft:wool:7:2",
-				"minecraft:wool:8:3"
+			"extraMaterialLists": [
+				[
+					"mts:iv_tpp.paint_bucket_deepblack:0:1",
+					"minecraft:wool:7:2",
+					"minecraft:wool:8:3"
+				]
 			]
 		}
 	],

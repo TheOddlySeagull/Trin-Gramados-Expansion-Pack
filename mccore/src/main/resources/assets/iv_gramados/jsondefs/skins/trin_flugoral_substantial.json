@@ -8,10 +8,12 @@
 			"modelName": "trin_flugoral_substantial",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Flugoral - Spunchmobile",
-			"extraMaterials": [
-				"minecraft:sponge:0:6",
-				"minecraft:wool:12:3",
-				"minecraft:wool:7:2"
+			"extraMaterialLists": [
+				[
+					"minecraft:sponge:0:6",
+					"minecraft:wool:12:3",
+					"minecraft:wool:7:2"
+				]
 			]
 		},
 		{
@@ -22,10 +24,12 @@
 			"modelName": "trin_flugoral_substantial",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Flugoral - Plum, Gray Interior",
-			"extraMaterials": [
-				"mts:iv_tpp.paint_bucket_plum:0:1",
-				"minecraft:wool:7:2",
-				"minecraft:wool:8:3"
+			"extraMaterialLists": [
+				[
+					"mts:iv_tpp.paint_bucket_plum:0:1",
+					"minecraft:wool:7:2",
+					"minecraft:wool:8:3"
+				]
 			]
 		},
 		{
@@ -36,10 +40,12 @@
 			"modelName": "trin_flugoral_substantial",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Flugoral - Black Granite, Red Interior",
-			"extraMaterials": [
-				"mts:iv_tdp_misc.crafting_stone_slab_angola_black_granite:0:5",
-				"minecraft:wool:7:2",
-				"minecraft:wool:14:3"
+			"extraMaterialLists": [
+				[
+					"mts:iv_tdp_misc.crafting_stone_slab_angola_black_granite:0:5",
+					"minecraft:wool:7:2",
+					"minecraft:wool:14:3"
+				]
 			]
 		}
 	],

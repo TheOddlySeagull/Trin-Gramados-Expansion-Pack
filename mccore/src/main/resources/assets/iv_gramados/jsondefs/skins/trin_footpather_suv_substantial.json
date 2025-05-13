@@ -8,11 +8,13 @@
 			"modelName": "trin_footpather",
 			"subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
 			"name": "Trin Footpather - Ebony Explorer, Brown Interior",
-			"extraMaterials": [
-				"mts:iv_tpp.paint_bucket_deepblack:0:1",
-				"mts:iv_tpp.paint_bucket_ivory:0:1",
-				"minecraft:wool:12:3",
-				"minecraft:wool:7:2"
+			"extraMaterialLists": [
+				[
+					"mts:iv_tpp.paint_bucket_deepblack:0:1",
+					"mts:iv_tpp.paint_bucket_ivory:0:1",
+					"minecraft:wool:12:3",
+					"minecraft:wool:7:2"
+				]
 			]
 		}
 	],
