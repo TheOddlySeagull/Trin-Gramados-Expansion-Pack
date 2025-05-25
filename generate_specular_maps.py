@@ -48,7 +48,7 @@ DEFAULT_COLOR = "#666666"
 NOISE_TOLERANCE = 0
 OVERRIDE_EXISTING = False
 USE_MULTITHREADING = False  # Set to True to enable multithreading
-BLACKLIST = {"vignette.png"}  # Add filenames to blacklist
+BLACKLIST = {"vignette.png", "trin_footpather_phase1_rustypatchwork.png"}  # Add filenames to blacklist
 
 # === Paths ===
 BASE_PATH = os.path.abspath("E:/Documents Global/Programmation/Trin/Trin Gramados Expansion Pack/mccore/src/main/resources/assets")
@@ -125,7 +125,7 @@ def main():
             continue
 
         for file in filenames:
-            if file.lower().endswith(".png") and not file.lower().endswith("_s.png"):
+            if file.lower().endswith(".png") and not (file.lower().endswith("_s.png") or file.lower().endswith("_mat.png") or file.lower().endswith("_n.png") or file.lower().endswith("_height.png")):
                 full_path = os.path.join(dirpath, file)
                 if not is_valid_image_path(full_path):
                     continue
