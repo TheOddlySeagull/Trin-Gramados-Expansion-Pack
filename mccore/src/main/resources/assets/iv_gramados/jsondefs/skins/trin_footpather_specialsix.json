@@ -1,0 +1,25 @@
+{
+    "definitions": [
+        {
+            "subName": "_ebony_explorer_b",
+            "partTones": [
+                "_brown"
+            ],
+            "modelName": "trin_footpather",
+            "subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+            "name": "Trin Footpather Special Six - Ebony Explorer, Brown Interior",
+            "description": "A rare gem - refined, leather-clad, and powered by a punchy V6 hidden behind a friendly face.\n2 doors, 3 seats\n\nRecommended parts:\nLarge Sized Wheels (x4)\nI4 Engine\nModel 1 Seats",
+            "extraMaterialLists": [
+                [
+                    "mts:iv_tpp.paint_bucket_deepblack:0:1",
+                    "mts:iv_tpp.paint_bucket_ivory:0:1",
+                    "mts:iv_tpp.upholstery_pile_brown:0:3"
+                ]
+            ]
+        }
+    ],
+    "general": {
+        "packID": "iv_tcp_v3_civil",
+        "systemName": "trin_footpather_specialsix"
+    }
+}
