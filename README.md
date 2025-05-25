@@ -1,5 +1,16 @@
 # Trin Gramados Expansion Pack Changelog
 
+## Trin Gramados Expansion Pack 1.5.0 changelog:
+
+### Additions:
+- Added an extra skin to the Trin Foopather Phase 1
+- Added an extra skin to the Trin Footpather Special Six
+
+### Removals:
+- Removed a skin for Trin Footpather Substantial (updated Footpather to Special Six)
+
+---
+
 ## Trin Gramados Expansion Pack 1.4.0 changelog:
 
 ### Additions:
