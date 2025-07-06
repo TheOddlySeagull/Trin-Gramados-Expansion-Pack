@@ -10,7 +10,7 @@
             "name": "Trin Footpather Phase 1 - Rusty Patchwork",
             "extraMaterialLists": [
                 [
-                    "minecraft:dirt:0:10"
+                    "mts:iv_tpp.oil_can_agedparticleslurry:0:1"
                 ]
             ]
         }
