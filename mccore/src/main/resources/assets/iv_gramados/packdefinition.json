@@ -1,0 +1,5 @@
+{
+	"packID" : "iv_gramados",
+	"packName" : "Gramados Extension Pack",
+	"dependents" : ["iv_tpp"]
+}
