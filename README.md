@@ -1,53 +1,57 @@
-# Trin Gramados Expansion Pack Changelog
+<div align="center">
 
-## Trin Gramados Expansion Pack 1.5.0 changelog:
+# Trin Gramados Expansion Pack — Skins & Liveries
 
-### Additions:
-- Added an extra skin to the Trin Foopather Phase 1
-- Added an extra skin to the Trin Footpather Special Six
+Additional skins for Trin vehicles and related content themed around the city of Gramados.
 
-### Removals:
-- Removed a skin for Trin Footpather Substantial (updated Footpather to Special Six)
+</div>
 
----
+## Overview
 
-## Trin Gramados Expansion Pack 1.4.0 changelog:
+This pack extends various Trin vehicles with new skins and liveries, including Gramados Police and service variants.
 
-### Additions:
-- Added an extra skin to the Trin Foragon Panel Van
-- Added an extra skin to the Trin Flugoral
-- Added an extra skin to the Trin Urlon V4
+## Download
 
----
+- GitHub Actions artifacts: each CI run uploads JARs for 1.12.2 and 1.16.5.
+- Releases: push a tag (e.g., `v1.5.0`) to trigger a release with attached JARs.
 
-## Trin Gramados Expansion Pack 1.3.0 changelog:
+## Requirements
 
-### Additions:
-- Added an extra skin to the Trin Ropy
-- Added an extra skin to the Trin Capro
+- Minecraft with Immersive Vehicles (MTS/IV)
+- Trin Part Pack (recommended)
 
-### Fixes:
-- Fixed every skin to use extra materials for crafting
+## Installation (Players)
 
----
+1. Install Immersive Vehicles (MTS/IV).
+2. Download the JAR for your MC version.
+3. Place it into your `mods` folder.
+4. Launch the game.
 
-## Trin Gramados Expansion Pack 1.2.0 changelog:
+## Building (Developers)
 
-### Additions:
-- Added an extra skin to the Trin Flugoral
+Prereqs:
+- JDK 8
+- Git and Gradle wrapper (included)
 
----
+Quick build:
+- Windows: `gradlew.bat buildForge1122 && gradlew.bat buildForge1165`
+- Linux/macOS: `./gradlew buildForge1122 && ./gradlew buildForge1165`
 
-## Trin Gramados Expansion Pack 1.1.0 changelog:
+Artifacts appear under `out/`.
 
-### Additions:
-- Added an extra skin to the Trin Capro
+CI:
+- GitHub Actions builds on push/PR, uploads artifacts, and publishes releases on tags.
 
----
+## Changelog
 
-## Trin Gramados Expansion Pack 1.0.0 changelog:
-Released on GitHub on 2024-06-27.
+See [CHANGELOG.md](./CHANGELOG.md) for version history.
 
-### Additions:
-- Introduced 3 custom skins for Trin cars
-- Introduced Gramados police skins to UNU police cars
+## License & Credits
+
+- Content and branding © TheOddlySeagull and contributors. All rights reserved unless otherwise stated.
+- Immersive Vehicles by its respective authors.
+
+## Community
+
+- Discord: https://discord.gg/ujQR3wf
+- Issues: Use this repo’s Issues for bugs and feature requests.
