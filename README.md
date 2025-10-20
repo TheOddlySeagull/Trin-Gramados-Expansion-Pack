@@ -2,7 +2,7 @@
 
 # Trin Gramados Expansion Pack — Skins & Liveries
 
-Additional skins for Trin vehicles and related content themed around the city of Gramados.
+Additional skins for Trin vehicles and related content themed around the lore and server of The Legends Of Gramdatis - Gramados Era.
 
 </div>
 
