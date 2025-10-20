@@ -6,6 +6,9 @@ Additional skins for Trin vehicles and related content themed around the lore an
 
 </div>
 
+[![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=white)](https://discord.gg/ujQR3wf)
+[![Build Status](https://github.com/TheOddlySeagull/Trin-Gramados-Expansion-Pack/actions/workflows/build.yml/badge.svg)](https://github.com/TheOddlySeagull/Trin-Gramados-Expansion-Pack/actions/workflows/build.yml)
+
 ## Overview
 
 This pack extends various Trin vehicles with new skins and liveries, including Gramados Police and service variants.
