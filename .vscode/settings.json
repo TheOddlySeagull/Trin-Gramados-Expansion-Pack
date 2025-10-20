@@ -1,4 +1,12 @@
 {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.gradle.enabled": true,
+    "java.import.gradle.wrapper.enabled": true,
+    "java.import.gradle.java.home": "${env:JAVA8_HOME}",
+    "gradle.java.home": "${env:JAVA8_HOME}",
+    "java.configuration.runtimes": [
+        { "name": "JavaSE-1.8", "path": "${env:JAVA8_HOME}" }
+    ],
     "java.compile.nullAnalysis.mode": "automatic",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.jdt.ls.java.home": "${env:JAVA8_HOME}"
 }
