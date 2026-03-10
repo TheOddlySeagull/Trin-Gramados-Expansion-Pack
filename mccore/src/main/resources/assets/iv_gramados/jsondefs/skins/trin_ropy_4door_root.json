@@ -15,6 +15,21 @@
                     "mts:iv_tpp.upholstery_pile_white:0:3"
                 ]
             ]
+        },
+        {
+            "subName": "_firered_black",
+            "partTones": [
+                "_black"
+            ],
+            "modelName": "trin_ropy_4door",
+            "subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+            "name": "Trin Ropy 4 door - Fire Red Paint, Black Interior",
+            "extraMaterialLists": [
+                [
+                    "mts:iv_tpp.paint_bucket_firered:0:1",
+                    "mts:iv_tpp.upholstery_pile_black:0:3"
+                ]
+            ]
         }
     ],
     "general": {
