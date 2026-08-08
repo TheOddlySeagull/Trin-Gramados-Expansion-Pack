@@ -2,6 +2,21 @@
 
 The following entries were moved from the former README.
 
+## Trin Gramados Expansion Pack 1.7.0 changelog:
+
+### Additions:
+- Added an extra skin to the Trin Trumon
+
+---
+
+## Trin Gramados Expansion Pack 1.6.0 changelog:
+
+### Additions:
+- Added an extra skin to the Trin Trumon
+- Added an extra skin to the Trin Ropy
+
+---
+
 ## Trin Gramados Expansion Pack 1.5.0 changelog:
 
 ### Additions:

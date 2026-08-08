@@ -16,7 +16,7 @@ This pack extends various Trin vehicles with new skins and liveries, including G
 ## Download
 
 - GitHub Actions artifacts: each CI run uploads JARs for 1.12.2 and 1.16.5.
-- Releases: push a tag (e.g., `v1.6.0`) to trigger a release with attached JARs.
+- Releases: push a tag (e.g., `v1.7.0`) to trigger a release with attached JARs.
 
 ## Requirements
 
