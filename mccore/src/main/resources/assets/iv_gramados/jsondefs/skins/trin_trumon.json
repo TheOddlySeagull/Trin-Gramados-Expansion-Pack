@@ -18,6 +18,25 @@
                     "mts:iv_tpp.upholstery_pile_brown:0:3"
                 ]
             ]
+        },
+        {
+            "subName": "_milkcoffee-lavenderblue-sapphire_black",
+            "partTones": [
+                "_black",
+                "_gray",
+                "_gray"
+            ],
+            "modelName": "trin_trumon",
+            "subDescription": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+            "name": "Trin Trumon - Custom Livery, Black Interior",
+            "extraMaterialLists": [
+                [
+                    "mts:iv_tpp.paint_bucket_milkcoffee:0:1",
+                    "mts:iv_tpp.paint_bucket_lavenderblue:0:1",
+                    "mts:iv_tpp.paint_bucket_sapphire:0:1",
+                    "mts:iv_tpp.upholstery_pile_black:0:3"
+                ]
+            ]
         }
     ],
     "general": {
