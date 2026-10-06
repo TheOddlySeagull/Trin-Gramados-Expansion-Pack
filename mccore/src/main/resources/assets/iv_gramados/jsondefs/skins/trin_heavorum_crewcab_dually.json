@@ -7,11 +7,11 @@
             ],
             "modelName": "trin_heavorum_crewcab_dually",
             "description": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
-            "name": "Trin Heavorum Crew Cab Dually - Electric Blue Paint with Wood Paneling, Gray & Blue Interior",
+            "name": "Trin Heavorum Crew Cab Dually - Electric Blue Paint with Golden Pecan Wood Paneling, Gray & Blue Interior",
             "extraMaterialLists": [
                 [
                     "mts:iv_tpp.paint_bucket_electricblue:0:1",
-                    "minecraft:planks:0:2",
+                    "mts:iv_tpp.wood_panel_pile_golden_pecan:0:2",
                     "mts:iv_tpp.upholstery_pile_grayblue:0:3"
                 ]
             ]
