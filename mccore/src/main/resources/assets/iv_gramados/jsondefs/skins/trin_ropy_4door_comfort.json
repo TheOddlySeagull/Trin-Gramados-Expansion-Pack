@@ -15,6 +15,21 @@
                     "mts:iv_tpp.upholstery_pile_red:0:3"
                 ]
             ]
+        },
+        {
+            "subName": "_pumpkin_gray",
+            "partTones": [
+                "_gray"
+            ],
+            "modelName": "trin_ropy_4door",
+            "description": "Skin is added by Trin Gramados Expansion Pack, not part of original pack.",
+            "name": "Trin Ropy Nova - Pumpkin Livery, Gray Interior",
+            "extraMaterialLists": [
+                [
+                    "minecraft:pumpkin:0:5",
+                    "mts:iv_tpp.upholstery_pile_gray:0:3"
+                ]
+            ]
         }
     ],
     "general": {
