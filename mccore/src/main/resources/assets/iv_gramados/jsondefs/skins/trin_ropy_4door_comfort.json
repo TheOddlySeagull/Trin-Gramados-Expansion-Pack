@@ -26,7 +26,7 @@
             "name": "Trin Ropy Nova - Pumpkin Livery, Gray Interior",
             "extraMaterialLists": [
                 [
-                    "minecraft:pumpkin:0:5",
+                    "mts:iv_tpp.wrap_roll_pumpkin:0:1",
                     "mts:iv_tpp.upholstery_pile_gray:0:3"
                 ]
             ]
