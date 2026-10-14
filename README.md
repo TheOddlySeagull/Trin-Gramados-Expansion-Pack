@@ -16,7 +16,7 @@ This pack extends various Trin vehicles with new skins and liveries, including G
 ## Download
 
 - GitHub Actions artifacts: each CI run uploads JARs for 1.12.2 and 1.16.5.
-- Releases: push a version tag (for example, `1.7.1` or `v1.7.1`) to trigger a release with attached JARs. The tag is the release version source of truth.
+- Releases: push a version tag (for example, `1.7.1`) to trigger a release with attached JARs. The tag is the release version source of truth.
 
 ## Requirements
 
@@ -44,7 +44,7 @@ Artifacts appear under `out/`.
 
 CI:
 - GitHub Actions builds on push/PR, uploads artifacts, and publishes releases on version tags.
-- Tagged builds embed the tag version in both Forge metadata files. Non-tag CI builds use a clearly non-release `dev.<commit>` version; local builds use `dev` unless `-PreleaseVersion=<version>` is supplied.
+- Tagged builds embed the tag version in both Forge metadata files. Non-tag and local builds use the latest valid release version from `global_version`, unless `-PreleaseVersion=<version>` is supplied.
 
 ## Changelog
 
