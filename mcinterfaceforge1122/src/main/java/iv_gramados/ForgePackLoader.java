@@ -19,7 +19,7 @@ public class ForgePackLoader{
 	//Pack version.  May be linked to from other packs to force specific versions.  Otherwise unused.
 	public static final String MODVER="@MOD_VERSION@";
 	//Mods/packs and the versions needed to run this pack.  Put whatever you want, but always leave MTS in here to ensure players have it loaded.
-	public static final String DEPS="required-after:mts@[22.0.0,);";
+	public static final String DEPS="required-after:mts@[24.0.0,);required-after:iv_tpp@[2.29.0,);";
 	//What MC versions this pack supports.  If you're using an older ForgePackLoader file and older JSON you can support 1.10.2-1.12.2.
 	public static final String MCVERS="[1.12.2,]";
 	

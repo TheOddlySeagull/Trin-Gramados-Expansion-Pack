@@ -21,3 +21,17 @@ description='''
 The Trims Of Freedom
 '''
 
+[[dependencies.iv_gramados]]
+modId="mts"
+mandatory=true
+versionRange="[24.0.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.iv_gramados]]
+modId="iv_tpp"
+mandatory=true
+versionRange="[2.29.0,)"
+ordering="AFTER"
+side="BOTH"
+
