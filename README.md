@@ -20,8 +20,8 @@ This pack extends various Trin vehicles with new skins and liveries, including G
 
 ## Requirements
 
-- Minecraft with Immersive Vehicles (MTS/IV)
-- Trin Part Pack (recommended)
+- Minecraft with Immersive Vehicles (MTS/IV) 24.0.0 or newer
+- Trin Part Pack 2.29.0 or newer
 
 ## Installation (Players)
 
